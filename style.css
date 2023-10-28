@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+div {
+  color: blue;
+}
+
+h2 {
+  padding: 0;
+  margin: 0;
+}
+
+.score-tracker {
+  display: flex;
+  margin: 1rem 1rem;
+}
+
+.player {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}html {
+  height: 100%;
+  width: 100%;
+}
